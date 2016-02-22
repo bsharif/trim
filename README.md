@@ -1,7 +1,7 @@
-Agency Jekyll theme
+TRIM
 ====================
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+Demo
 
 # How to use
 
