@@ -1,0 +1,25 @@
+<!-- Services Section -->
+    <section id="events" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Events</h2>
+                    <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
+                </div>
+            </div>
+            <div class="row text-center">
+                
+                {% for event in site.events %}
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">{{ event.name }}</h4>
+                    <p class="text-muted">Friday 1st April 0900 - 1700. Univeristy Hospital Wales.</p>
+                    <a href="https://eventbrite.com" class="btn btn-xl">Sign Up</a>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>

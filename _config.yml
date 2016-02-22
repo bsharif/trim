@@ -2,7 +2,7 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
+title: TRiM
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -12,11 +12,25 @@ color:
   secondary: fec503  
   secondary-dark: 333
 
+
+# Events
+events:
+- name: MedTriM
+  description: "Friday 1st April 0900 - 1700. Univeristy Hospital Wales."
+  url: http://eventbrite.com
+- name: SportTRiM
+  description: "Friday 1st April 0900 - 1700. Univeristy Hospital Wales."
+  url: http://eventbrite.com
+- name: FireTRiM
+  description: "Friday 1st April 0900 - 1700. Univeristy Hospital Wales."
+  url: http://eventbrite.com
+
+
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Andy McCann
   pic: 1
-  position: Lead Designer
+  position: Position
   social:
     - title: twitter
       url: #
@@ -25,9 +39,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Steve Eaton
   pic: 2
-  position: Lead Marketer
+  position: Position
   social:
     - title: twitter
       url: #
@@ -36,9 +50,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Mark Stacey
   pic: 3
-  position: Lead Developer
+  position: Position
   social:
     - title: twitter
       url: #
