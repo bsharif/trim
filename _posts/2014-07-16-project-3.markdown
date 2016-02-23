@@ -4,7 +4,7 @@ subtitle: Fire Service
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: fire.png
+img: fire.jpg
 thumbnail: fire-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
