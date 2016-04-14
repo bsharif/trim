@@ -29,6 +29,7 @@ events:
 # Team names, titles and social links
 people:
 - name: Andy McCann
+  url: andy-mccann
   pic: 1
   position: Position
   social:
@@ -40,6 +41,7 @@ people:
       url: #
 
 - name: Steve Eaton
+  url: steve-eaton
   pic: 2
   position: Position
   social:
@@ -51,6 +53,7 @@ people:
       url: #
 
 - name: Mark Stacey
+  url: mark-stacey
   pic: 3
   position: Position
   social:
@@ -81,4 +84,4 @@ address:
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: :title
