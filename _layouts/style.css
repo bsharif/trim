@@ -1,2 +1,7 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
+
+/* Custom style for grey box surrounding text */
+.caption-grey {
+	background-color:rgba(0,0,0,0.35);
+	}
