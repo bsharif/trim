@@ -1,7 +1,7 @@
 TRIM
 ====================
 
-Demo
+Trim Training Services
 
 # How to use
 
